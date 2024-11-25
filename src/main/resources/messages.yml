@@ -1,0 +1,6 @@
+notifications:
+  ram_exceeded: "RAM usage is too high: {usage}%"
+  tps_low: "Server TPS is too low: {tps}"
+  cpu_exceeded: "CPU usage is too high: {usage}%"
+  heap_dump: "Heap dump generated due to severe lag. File: {file}"
+  heap_dump_failed: "Failed to generate heap dump: {error}"
