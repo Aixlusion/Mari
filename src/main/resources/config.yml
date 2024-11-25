@@ -1,0 +1,11 @@
+#  +-+-+-+-+
+#  |M|A|R|I|
+#  +-+-+-+-+
+
+thresholds:
+  ram: 95   # Value in percentage
+  tps: 18   # Value in number
+  cpu: 85   # Value in percentage
+notifications:
+  enabled: true # Weather notifications are enabled or not
+

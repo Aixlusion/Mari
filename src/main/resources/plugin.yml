@@ -1,9 +1,9 @@
-name: Mari
-version: '0.0.1-Init'
-main: net.aixlusion.mari.Mari
+name: MARI-Profiler
+version: '0.0.2'
+main: net.aixlusion.mari.main
 api-version: '1.21'
 prefix: MRD
 load: STARTUP
 authors: [ Aixlusion ]
-description: Multi purpose SMP management plugin
+description: Server optimization plugin written to be lightweight, versatile, and easy to use.
 website: www.206712.xyz
